@@ -24,7 +24,7 @@ SECRET_KEY = 'z0*dw(7xk&hm0=g!3t*wma3=4f%@7vb@kgo75qwgql#--si@e!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['rachidpython.pythonanywhere.com']
 
  
 # Application definition
@@ -119,3 +119,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+
+# redirect the user when he login successfully to posts list
+LOGIN_REDIRECT_URL = '/'
+
