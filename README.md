@@ -9,4 +9,5 @@ you will have a simple, working web application: your own blog. you will see how
 
 # Check out the complete tutorial  at : https://tutorial.djangogirls.org/en/
 
-# Go ahead to this address to test the app online (3 months and the site will be disabled) : http://rachidpython.pythonanywhere.com
+### Go ahead to this address to test the app online (3 months and the site will be disabled) : http://rachidpython.pythonanywhere.com
+
