@@ -8,3 +8,5 @@ you will learn how to create awesome web applications using django framework for
 you will have a simple, working web application: your own blog. you will see how to put it online, so others will see your work!
 
 # Check out the complete tutorial  at : https://tutorial.djangogirls.org/en/
+
+# Go ahead to this address to test the app online (3 months and the site will be disabled) : http://rachidpython.pythonanywhere.com
